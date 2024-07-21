@@ -1,2 +1,1 @@
-# el-jueguito-del-dino
-es tipico
+# Trex_Etapa_0.5
